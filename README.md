@@ -30,7 +30,7 @@ This student management system has the following features:
 Requirements
  
 
-Basic knowledge of
+Basic knowledge of:
 
 •	Python 3.10
 •	PyCharm Community Edition 2022.1
