@@ -18,15 +18,6 @@ This student management system has the following features:
 
 
 
- 
-
-
- 
-
-
-
-
-
 Requirements
  
 
@@ -35,3 +26,16 @@ Basic knowledge of:
 •	Python 3.10
 •	PyCharm Community Edition 2022.1
 •	MySQL
+
+
+
+# Some Screenshots of the application GUI
+
+
+![Screenshot (219) - Copy](https://user-images.githubusercontent.com/99782520/236658879-82dfda3c-982f-4c08-baa3-fcbbed1ba40c.png)
+![Screenshot (219)](https://user-images.githubusercontent.com/99782520/236658881-ea3b6719-6b4a-46a9-aaec-fac9ff52355e.png)
+![Screenshot (220)](https://user-images.githubusercontent.com/99782520/236658882-e42c454b-3d1e-4383-8bf9-9541a01d6802.png)
+![Screenshot (221)](https://user-images.githubusercontent.com/99782520/236658883-a85db10c-8ce1-4aeb-9033-4e0471229422.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/99782520/236658885-482c65c9-d55d-4587-8586-0f6a75e581e6.png)
+![Screenshot (223)](https://user-images.githubusercontent.com/99782520/236658887-fe7a316a-3711-4ae4-a041-41469cf87134.png)
+![Screenshot (224)](https://user-images.githubusercontent.com/99782520/236658888-568a7527-ad69-4f6d-ac5e-1983bf37d7cf.png)
