@@ -39,3 +39,11 @@ Basic knowledge of:
 ![Screenshot (222)](https://user-images.githubusercontent.com/99782520/236658885-482c65c9-d55d-4587-8586-0f6a75e581e6.png)
 ![Screenshot (223)](https://user-images.githubusercontent.com/99782520/236658887-fe7a316a-3711-4ae4-a041-41469cf87134.png)
 ![Screenshot (224)](https://user-images.githubusercontent.com/99782520/236658888-568a7527-ad69-4f6d-ac5e-1983bf37d7cf.png)
+![Screenshot (261)](https://github.com/itsamaan/Student-Management-System/assets/99782520/d89eb5ab-2974-46a8-a86b-695e4ef1fc5d)
+![Screenshot (260)](https://github.com/itsamaan/Student-Management-System/assets/99782520/3ce1d27c-acc1-4371-b5c3-bd282015400c)
+![Screenshot (259)](https://github.com/itsamaan/Student-Management-System/assets/99782520/de75edf3-34bd-444c-b3fa-a35c64ba521d)
+![Screenshot (258)](https://github.com/itsamaan/Student-Management-System/assets/99782520/ded09a1e-04f3-4ac8-a2f9-ec19d052d354)
+![Screenshot (257)](https://github.com/itsamaan/Student-Management-System/assets/99782520/9dbebef9-084f-4064-ba7e-826a31516241)
+![Screenshot (256)](https://github.com/itsamaan/Student-Management-System/assets/99782520/a23370e7-d86b-435d-91d9-c3eb0c2f56fe)
+![Screenshot (255)](https://github.com/itsamaan/Student-Management-System/assets/99782520/1d4ab149-b023-4e1a-93eb-22442759549d)
+
